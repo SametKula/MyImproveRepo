@@ -1,2 +1,0 @@
-"%PROGRAMFILES%\Git\bin\sh.exe" --login
-echo $(date +%Y-%m-%d) upload's commit >> sss.txt

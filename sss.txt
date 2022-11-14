@@ -11,3 +11,4 @@ date
 date %Y-%m-%d
 
 2022-11-14
+$(date +m-d) upload's commit 
