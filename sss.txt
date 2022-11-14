@@ -1,0 +1,13 @@
+last sss
+last sss
+date +  sad
+date
+%d
+%d
+%dashh
+%dashh
+%day
+%Y-%m-%d
+date %Y-%m-%d
+
+2022-11-14
