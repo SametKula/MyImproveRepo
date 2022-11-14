@@ -1,17 +1,1 @@
-last sss
-last sss
-date +  sad
-date
-%d
-%d
-%dashh
-%dashh
-%day
-%Y-%m-%d
-date %Y-%m-%d
-
-2022-11-14
-$(date +m-d) upload's commit 
-$(date +m-d) upload's commit 
--14.11.2022-_ upload's commit 
--14.11.2022-_ upload's commit 
+-14.11.2022-_2304 upload's commit 
